@@ -32,13 +32,6 @@ nav a:hover {
   color: #f4c400; 
 }
 
-/* Main content */
-main {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 50px 20px;
-}
-
 
 button {
   background-color: #f4c400;
@@ -81,6 +74,9 @@ h2 {
   margin-bottom: 15px;
 }
 
+.hero p {
+  margin-bottom: 30px;
+}
 
 .home-links {
   margin: 30px 0;
