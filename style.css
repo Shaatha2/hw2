@@ -6,16 +6,12 @@ body {
 
 /* Header */
 header {
-  background-color: #0b1f3a; /* كحلي */
+  background-color: #0b1f3a; /* navy */
   color: white;
   padding: 20px;
   text-align: center;
 }
 
-
-body {
-  background-color: yellow;
-}
 
 /* Navigation */
 nav {
@@ -33,7 +29,7 @@ nav a {
 
 /* Hover effect */
 nav a:hover {
-  color: #f4c400; /* أصفر */
+  color: #f4c400; 
 }
 
 /* Main content */
@@ -41,7 +37,7 @@ main {
   padding: 20px;
 }
 
-/* Buttons (مثل حقك الأصفر) */
+
 button {
   background-color: #f4c400;
   border: none;
