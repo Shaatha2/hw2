@@ -97,3 +97,9 @@ h2 {
 li {
   margin-bottom: 8px;
 }
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 50px 20px;
+}
