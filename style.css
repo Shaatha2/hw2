@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+/* Header */
+header {
+  background-color: #0b1f3a; /* كحلي */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+
+body {
+  background-color: yellow;
+}
+
+/* Navigation */
+nav {
+  background-color: #0b1f3a;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Hover effect */
+nav a:hover {
+  color: #f4c400; /* أصفر */
+}
+
+/* Main content */
+main {
+  padding: 20px;
+}
+
+/* Buttons (مثل حقك الأصفر) */
+button {
+  background-color: #f4c400;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  background-color: #0b1f3a;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
