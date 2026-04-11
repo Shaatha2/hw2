@@ -53,3 +53,16 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+
+.home-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.home-box {
+  background-color: #f4c400;
+  padding: 15px 30px;
+  text-decoration: none;
+}
